@@ -1,0 +1,1684 @@
+#EXTM3U
+#EXTINF:0 tvg-id="DasErste.de" group-title="Germany",DE: Das Erste HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5281
+#EXTINF:0 tvg-id="One.de" group-title="Germany",DE: ONE HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5282
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: ZDF (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73748
+#EXTINF:0 tvg-id="ZDF.de" group-title="Germany",DE: ZDF HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5283
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: ZDF RAW
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/62006
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: ZDF-Info (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73746
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Germany",DE: ZDF info HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5328
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: ZDF-Neo (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73747
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Germany",DE: ZDFneo HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5314
+#EXTINF:0 tvg-id="WDR.de" group-title="Germany",DE: WDR HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5311
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NDR -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73723
+#EXTINF:0 tvg-id="ndr.de" group-title="Germany",DE: NDR HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5313
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Handystar TV HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/61787
+#EXTINF:0 tvg-id="RTL.de" group-title="Germany",DE: RTL SD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5287
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73739
+#EXTINF:0 tvg-id="RTL.de" group-title="Germany",DE: RTL HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5288
+#EXTINF:0 tvg-id="RTL.de" group-title="Germany",DE: RTL FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5289
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL Living -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73736
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Germany",DE: RTL Living HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33164
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL Up HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/9897
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL-Zwei (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73738
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTLZWEI HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5291
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTLZWEI FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5292
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sat.1 HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73742
+#EXTINF:0 tvg-id="Sat1.de" group-title="Germany",DE: Sat 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5284
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Germany",DE: Sat.1 Gold HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5285
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sat.1 Emotions HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5286
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: PRO7 HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73732
+#EXTINF:0 tvg-id="Pro7.de" group-title="Germany",DE: ProSieben HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5297
+#EXTINF:0 tvg-id="Pro7.de" group-title="Germany",DE: ProSieben FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5298
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: PRO7-MAXX HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73731
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Germany",DE: Pro7 Maxx FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5299
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Germany",DE: Pro7 Fun HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5300
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: VOX HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73730
+#EXTINF:0 tvg-id="Vox.de" group-title="Germany",DE: VOX HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5303
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: VOXUp
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/9907
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kabel Eins HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73745
+#EXTINF:0 tvg-id="Kabel.de" group-title="Germany",DE: Kabel 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5301
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kabel Eins Doku-HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73744
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kabel 1 Doku HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5326
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Germany",DE: Kabel 1 Classics HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5302
+#EXTINF:0 tvg-id="Tele5.de" group-title="Germany",DE: Tele 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5304
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DMAX -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73756
+#EXTINF:0 tvg-id="DMax.de" group-title="Germany",DE: DMAX HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5332
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sixx HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73729
+#EXTINF:0 tvg-id="Sixx.de" group-title="Germany",DE: Sixx HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5305
+#EXTINF:0 tvg-id="TLC.de" group-title="Germany",DE: TLC HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5333
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL Passion -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73734
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Germany",DE: RTL Passion HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5295
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL Nitro -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73735
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Germany",DE: RTL Nitro HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5293
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Germany",DE: RTL Nitro FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5294
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL Crime -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73737
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Germany",DE: RTL Crime HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5296
+#EXTINF:0 tvg-id="ZeeOne.de" group-title="Germany",DE: Zee One HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79571
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Zee.One Bollywood HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5373
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay BollyWood ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67266
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Bollywood HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38775
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Bollywood 2 HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38776
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: KiKi Kino Bollywood 2
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38618
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: KiKi Kino Bollywood 3
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38619
+#EXTINF:0 tvg-id="3sat.de" group-title="Germany",DE: 3sat HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5309
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Silverline HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5368
+#EXTINF:0 tvg-id="ServusHD.de" group-title="Germany",DE: ServusTV HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5306
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Romance TV -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73751
+#EXTINF:0 tvg-id="Romance.de" group-title="Germany",DE: Romance TV HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5374
+#EXTINF:0 tvg-id="SWR.de" group-title="Germany",DE: SWR HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5312
+#EXTINF:0 tvg-id="MDRSachsen.de" group-title="Germany",DE: MDR
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5310
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: N-TV (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73725
+#EXTINF:0 tvg-id="ntv.de" group-title="Germany",DE: N-TV HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5331
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BILD HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57279
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Phoenix -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73722
+#EXTINF:0 tvg-id="phoenix.de" group-title="Germany",DE: Phoenix HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5327
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Euronews HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5315
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Replay -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73675
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Replay HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38772
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Replay HD +
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38773
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky One -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73671
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky One HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5350
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Showcase -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73674
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Showcase HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58183
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Action -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73663
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Action HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5356
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Best Of -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73664
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Best Of HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5351
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Special HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5355
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Premieren -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73660
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Premieren HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5352
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Premieren+24 -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73661
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Premieren +24 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5353
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Family -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73662
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Germany",DE: Sky Cinema Family HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5357
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Classics HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5360
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Crime -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73672
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Crime HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38788
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Fun -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73667
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Fun HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5358
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Thriller -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73665
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Cinema Thriller HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5359
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Krimi -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73670
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Krimi HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5361
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Atlantic -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73673
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Germany",DE: Sky Atlantic HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/9896
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Documentaries -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73677
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Documentaries HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42282
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Nature -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73676
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Nature HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42283
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SYFY -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73682
+#EXTINF:0 tvg-id="SciFi.de" group-title="Germany",DE: Syfy HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5370
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: 13th Street -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73681
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Germany",DE: 13th Street HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5369
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Universal TV -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73683
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Universal TV HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5371
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Warner TV Film -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73678
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Warner TV Film HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5365
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Warner TV Comedy -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73680
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Warner TV Comedy HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5364
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Warner TV Serie -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73679
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Warner TV Serie HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5366
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Crime + Investigation -SD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73754
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Crime   Investigation HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5362
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Germany",DE: Kinowelt HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5367
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Comedy Central HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5340
+#EXTINF:0 tvg-id="AnixeSerie.de" group-title="Germany",DE: Anixe Serie HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5307
+#EXTINF:0 tvg-id="AnixeHD.de" group-title="Germany",DE: ANIXE HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5308
+#EXTINF:0 tvg-id="Fox.de" group-title="Germany",DE: Fox HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5363
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sony AXN HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5372
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Comedy Central. -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73755
+#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="Germany",DE: Comedy Central
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5337
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Germany",DE: E! Entertainment HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5334
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Arte -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73721
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Heimatkanal -SD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73750
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Jukebox -SD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73758
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Film Premium Info HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/43767
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Film Premium 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/43771
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Film Premium 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/43772
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Film Premium 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/43773
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Film Premium 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/43774
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Film Premium 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/43775
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Action
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34374
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Komödie
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38578
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Thriller
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38579
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Horror
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38582
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Fantasy
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80238
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Familien Filme
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80323
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Animation
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38583
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Disney+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55242
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Arnold Schwarzenegger
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38682
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Sylvester Stallone
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38637
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Jean Claude van Damme
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38687
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Jackie Chan
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38586
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Jet Li
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38587
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Dwayne Johnson
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38580
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Jason Statham Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55053
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Will Smith
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59921
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Martin Lawrence
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80309
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Eddie Murphy
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73455
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Bruce Lee
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47144
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cineman IP Man
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38585
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema James Bond
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38576
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Fast & Furious
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38601
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Scream Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55921
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema X-Man Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55136
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Superman Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55611
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Batman
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/51465
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Karate Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55647
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema 90er Filme
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/41737
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinemas Christmas Filme
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/43766
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Twilight Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/54988
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Harry Potter
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80344
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Turtles Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47143
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Spider Man Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47145
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Police Academy
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/51382
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Marvel Filme
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38588
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Terminator
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38596
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Transformers
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38639
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Resident Evil
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38624
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Mission Impossible
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38589
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Freitag der 13 Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42273
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Helloween
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42712
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Final Destination
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38584
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Bud Spencer
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38694
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Religion
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42753
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Cinema Barbie Collection
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38581
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select American Fighter  Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80532
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Taxi Taxi  Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80518
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Asterix und Obelix Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80524
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Fluch der Karibik  Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80482
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Beethoven  Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80321
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Saw  Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80035
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Stirb Langsam Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71168
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Lethal Weapon Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71170
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Jason Bourne Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71291
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Die Mumie Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71292
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Zurück in die Zukunft Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71169
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Jurassic Park Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71171
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Beverly Hills Cop  Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73453
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Nachts im Museum Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71294
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select American Pie Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71290
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Robocop Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71760
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Planet der Affen  Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71767
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Eis am Stiel ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80950
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Katastophen Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71295
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS Select Western Filme ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71306
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Aktion ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67260
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Aktion +1 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67261
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Extra ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67255
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Horror ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67263
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Netflix ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67257
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Best Of ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67258
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Collection ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67259
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Komödie ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67262
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Familie ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67264
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Romantisch ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67265
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Select 1 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67267
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Select 2 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67268
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Select 3 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67269
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Select 5 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67271
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Select 6 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67272
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Amazon Prime Video 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71246
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Amazon Prime Video 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71247
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Amazon Prime Video 1 HEVC
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71248
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Amazon Prime Video 2 HEVC
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71249
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Amazon Prime Video 1 UHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71250
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Amazon Prime Video 2 UHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71251
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Select Programmübersicht
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8259
+#EXTINF:0 tvg-id="SkySelect.de" group-title="Germany",DE: Sky Select 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12382
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Germany",DE: Sky Select 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12383
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="Germany",DE: Sky Select 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12384
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="Germany",DE: Sky Select 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12386
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Germany",DE: Sky Select 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12385
+#EXTINF:0 tvg-id="SkySelect6.de" group-title="Germany",DE: Sky Select 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12387
+#EXTINF:0 tvg-id="SkySelect7.de" group-title="Germany",DE: Sky Select 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12388
+#EXTINF:0 tvg-id="SkySelect8.de" group-title="Germany",DE: Sky Select 8 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12389
+#EXTINF:0 tvg-id="SkySelect9.de" group-title="Germany",DE: Sky Select 9 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12390
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Select 10 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/12391
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Februar FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71252
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71253
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71254
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71255
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 4 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71256
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 5 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71257
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 6 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71258
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 7 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71259
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 8 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71260
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 9 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71261
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 10 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71262
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 11 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71263
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 12 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71264
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 13 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71265
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 15 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71267
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 16 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71268
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 17 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71269
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 18 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71270
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select Übersicht 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71271
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 1 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71272
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 2 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71273
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 3 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71274
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 4 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71275
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 5 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71276
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 6 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71277
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 7 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71278
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Selectt 8 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71279
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 9 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71280
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 10 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71281
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 11 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71282
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 12 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71283
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 13 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71284
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 14 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71285
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 15 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71286
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 16 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71287
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 17 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71288
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Store Select 18 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/71289
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 1
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79643
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 2
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79644
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 3
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79645
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 4
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79646
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 5
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79647
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 6
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79648
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79649
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 8
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79650
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 9
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79651
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:Germany Kids Filme 10
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79652
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kino Box 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/70774
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kino Box 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/70775
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kino Box 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/70776
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kino Box 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/70777
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kino Box 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/70778
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kino Box 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/70779
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kino Box 8 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/70780
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Kino Box 9 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/70781
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58248
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58249
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58250
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 4 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58251
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 5 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58252
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 6 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58253
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 7 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58254
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 8 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58255
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 9 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58256
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Prime 10 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58257
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dark Kino 6 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58263
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX KINO COLLECTION
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38741
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Select 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38742
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Select 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38743
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Select 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38744
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Select 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38745
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Select 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38746
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Select 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38747
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Select 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38748
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Plus HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34276
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:  Max Select 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34281
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE Max Select 2 4K
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34280
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE:  Max Select 3 4k
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34279
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Select 4 4k
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34278
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX STAR WARS HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34283
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX 007 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34285
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Kino 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/29208
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Kino 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/29210
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Kino 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/29211
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Kino 4 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/29212
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Kino 5 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/29213
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Kino Collection FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/29214
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Kino Premiere FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/29215
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Select 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42530
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Select 4 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42531
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Select 5 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42532
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MAX Select 6 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42533
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Max Select 7 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42534
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K HORROR 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79481
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE  U4K HORROR 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79476
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE  U4K HORROR 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79477
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE  U4K KIDS 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79478
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE  U4K KIDS 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79479
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE  U4K KIDS 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79480
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K KINO 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79482
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K KINO 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79485
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K KINO 5 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79487
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K KINO 6 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79488
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K KINO 7 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79489
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K KINO 8 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79490
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K KINO 9 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79491
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: MOVIE U4K KINO 10 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79483
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX The Boss Baby HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79493
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Tom und Jerry Show HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79495
+#EXTINF:0 tvg-id="Nicktoons.de" group-title="Germany",DE: Nicktoons
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79496
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Alle hassen Chris HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79497
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Arrow HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79498
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX 4.Blocks HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79499
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Full House HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79500
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Chicago Fire HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79501
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Game of Thrones HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79502
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Greys Anatomy 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79503
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Gomorra HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79505
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Haus des Geldes HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79506
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Ballers HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79507
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Jerks HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79508
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX IZombie HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79510
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: King of Queens 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79511
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Emergency Room 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79512
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Malcom Mittendrin HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79513
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Mr.Robot HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79514
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Narcos HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79515
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Navy CIS HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79516
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX S.W.A.T HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79517
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Riverdale HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79518
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Deperate Housewife’s 27/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79519
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Chicago MED HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79520
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Start Up HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79521
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Suits HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79522
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX The Big Bang Theory HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79523
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: The Middle 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79524
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Pluto TV Star Trek 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79525
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX The Walking Dead HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79526
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Tote Mädchen len nicht 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79527
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Two and a Half Men HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79528
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX The 100 HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79529
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SERIEAX Van Helsing HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79530
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX ABENTEUER HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80257
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX ACTION HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80258
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX BOLLYWOOD HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80259
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX DRAMA HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80260
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX DOCU HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80261
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX FANTASY HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80263
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX HISTORIE HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80264
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX HORROR HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80265
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX KARATE HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80266
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX KOMODIE HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80267
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX KRIEGSFILM HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80268
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX KRIMI HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80269
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX LIEBESFILM HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80270
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX MYSTERY HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80271
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX SCI-FI HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80272
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX THRILLER HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80273
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX WESTERN HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80274
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX PREMIEREN 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80275
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX PREMIEREN 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80276
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX PREMIEREN 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80277
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX PREMIEREN 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80278
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX PREMIEREN 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80279
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX PREMIEREN 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80280
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: SKY BOX PREMIEREN 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80281
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV KRIMI ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80077
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV ACTION 1 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80078
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV FAMILIE 1 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80079
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV DRAMA ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80080
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV MARVEL ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80081
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV HORROR 1 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80082
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV FANTASY ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80083
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV THRILLER ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80084
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV HISTORIE ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80085
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV MYSTERY ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80086
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV KOMODIE ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80087
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV ABENTEUER ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80088
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV BOLLYWOOD ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80089
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV LIEBESFILM 1 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80090
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV SCIENCE-FICTION ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80091
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV DOKU ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80092
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV FAMILIE 2 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80093
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV KRIEGSFILM ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80094
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV ACTION 2 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80095
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV ACTION 3 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80096
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K ACTION
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80098
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K DRAMA
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80099
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K HORROR
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80100
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K KOMÖDIE
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80101
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K LIEBESFILM
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80102
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K SCI-FI
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80103
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K THRILLER
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80104
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K FANTASY
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80105
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K ABENTEUER
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80106
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K BOLLYWOOD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80107
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K FAMILIE
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80108
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K MYSTERY
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80109
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K KRIMI
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80110
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  NEW GIRL  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80112
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  PRISON BREAK  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80113
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  SUPERNATURAL 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80114
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  AMERICAN HOUSEWIFE  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80115
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  BABYLON BERLIN 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80116
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  BOSCH 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80117
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  BREAKING BAD  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80118
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  HAUS DES GELDES  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80119
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  HOW I MET YOUR MOTHER  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80120
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  ELITE  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80121
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  ALLE HASSEN CHRIS  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80122
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DE: BlueTV INDIANA JONES 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80123
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV BUD SPENCER 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80124
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  AMERICAN HORROR STORY 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80125
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  COMMUNITY  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80126
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  HANNIBAL 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80127
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  LOST 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80128
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  MODERN FAMILY 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80129
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4  BLOCKS  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80130
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV GAME of THRONES  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80131
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  SEX and THE CITY  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80132
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KEVIN CAN'T WAIT  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80133
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  ChICAGO  FIRE  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80134
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  MR.ROBOT  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80135
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  NARCOS  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80136
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV   S.W.A.T  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80137
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  NAVY CIS 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80138
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  SUITS 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80139
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  START UP   24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80140
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  THE KING of QUEENS 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80142
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  THE NIGHT SHIFT   24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80143
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  THE WALKING DEAD  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80144
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  TWO and HALF MEN  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80145
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  VAN HELSING  24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80146
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV BALLERS  7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80147
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  CHICAGO MED   7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80148
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  ALEX RIDER  7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80149
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  BRITANNIA   7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80150
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  GREYS  ANATOMY  7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80151
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  ENTOURAGE  7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80153
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  DEUTSCHLAND   7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80154
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  BLACK SAILS  7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80155
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  BATWOMAN  7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80156
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  9.1.1  7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80157
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  HARLOTS 7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80158
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV Jerks 7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80159
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  POWER 7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80160
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  LIKE ME  7/24
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80162
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  ZOO 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80163
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  VIKINGS 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80164
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE : BlueTV  SQUID GAME ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80165
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  DARK 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80166
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  BAKI ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80168
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  AVATAR  ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80169
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  CASPER ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80170
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  DORORO ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80171
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  DIE MASKE ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80172
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  ROBIN HOOD ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80173
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  SCOOBY DOO ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80174
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  DIE  RACCONS ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80175
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  YOGIBAR  SHOW ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80176
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  TOM and JERRY  ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80177
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  DEDEKTIVE CONAN ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80178
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  CAPTAIN TSUBASA  ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80179
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  NEW SPIDER MAN  ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80180
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  DRAGON BALL Z Kai ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80181
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  BABY LOONEY TUNES  ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80182
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  BATMAN of THE FUTURE ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80183
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV Sponge Bob  ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80184
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER  1 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80185
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER 2 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80186
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER  3 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80187
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER 4 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80188
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER  5 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80189
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER  6 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80190
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER  7 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80191
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER  8 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80192
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER  9 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80193
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV  KINDER 10 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80194
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV DRAMA 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80195
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV DRAMA 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80196
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV KOMODIE 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80197
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV KRIMI 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80198
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV HORROR 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80199
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV LIEBESFILM 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80200
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV MYSTERY 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80201
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV THRILLER 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80202
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV THRILLER 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80203
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV KARATE 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80204
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV KARATE 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80205
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV WESTERN HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80206
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV HORROR  2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80207
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV KOMODIE 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80208
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV X-MEN HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80209
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV SPIDER-MAN HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80210
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K HISTORIE
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80211
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K KRIEGSFILM
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80212
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K DOCU
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80213
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K WESTERN
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80214
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: BlueTV 4K KARATE
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80215
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Action
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8251
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Animation
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8252
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Cinema
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8253
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Comedy
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8254
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Familie
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8255
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Hits
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8256
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Horror
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8257
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Marvel
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/8258
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Jackie Chan HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38777
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome DCMovies HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/38778
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Action FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42568
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome 007 HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47245
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Animation FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42569
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Arnold Schwarzenegger FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42570
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Bollywood 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42571
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Bollywood FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42572
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Bruce Willis FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42573
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Cinema FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42574
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Comedy FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42575
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Denzel Washington FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42576
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Family FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42577
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Harry Potter FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42578
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Hits FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42579
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Horror FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42580
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Jason Statham FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42582
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Jean Claude van Damme FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42583
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Kurt Russell FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42584
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Leonardo DiCaprio FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42585
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Marvel FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42586
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Mittelerde FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42587
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Star Wars FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42588
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Sylvester Stallone FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42589
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax The Fast & the Furious FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42590
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Tom Cruise FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42591
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Tommy Lee Jones FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42592
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cinedome Filmax Will Smith FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42593
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55394
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55395
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55396
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55397
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55398
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55399
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55400
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 8 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55349
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 9 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55348
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Netflix: Deutsche 10 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55347
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX 1 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67353
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX 2 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67354
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX 3 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67355
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX 4 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67356
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX 5 ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67357
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Abenteuer ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67358
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Action ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67359
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Animation ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67360
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Dokumentarfilm ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67361
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Drama ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67362
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Familie ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67363
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Fantasy ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67364
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Komodie ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67366
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Romantısch ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67368
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: NETFLIX Thriller ʜᴅ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67370
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS ABC KINDER TV
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/51517
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HS MASCHA UND DER BÄR
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/51606
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Kids Paw Patrol ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67250
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Kids Mascha & Bär ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67251
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Kids Pj Masks ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67252
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Kids Peppa Wutz ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67253
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Kids SpongeBob ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67254
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: OnePlay Disney+ ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67256
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DİSNEY Kids 1 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/62554
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DİSNEY Kids 3 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/62556
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DİSNEY Kids 5 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/62558
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DİSNEY Kids 6 ᴴᴰ
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/62559
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Dragon Ball 24/7
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/29207
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: TOGGO-plus (Local) ''hevc h.265'
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73728
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Super-RTL (Local) ''hevc h.265'
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73733
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cartoon Network -SD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73757
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Cartoonito -SD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73759
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Germany",DE: Super RTL FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5347
+#EXTINF:0 tvg-id="Kika.de" group-title="Germany",DE: KiKA HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5349
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Germany",DE: Disney Channel HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5341
+#EXTINF:0 tvg-id="DisneyXD.de" group-title="Germany",DE: Disney XD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5342
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Germany",DE: Cartoon Network HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5344
+#EXTINF:0 tvg-id="Nickelodeon.de" group-title="Germany",DE: Nick HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5339
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Nickelodeon (AT)
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5338
+#EXTINF:0 tvg-id="Boomerang.de" group-title="Germany",DE: Boomerang HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5345
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Toggo Plus HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5348
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Fix & Foxi
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5335
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: HISTORY Channel -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73753
+#EXTINF:0 tvg-id="HistoryHD.de" group-title="Germany",DE: History FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5322
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Germany",DE: Nat Geo HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5318
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Germany",DE: Nat Geo Wild HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5320
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Germany",DE: National Geographic FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5319
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Discovery -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73752
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="Germany",DE: Discovery HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5317
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Waidwerk HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67617
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: GEO HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42284
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="Germany",DE: Spiegel Geschichte HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5324
+#EXTINF:0 tvg-id="SpiegelTV.de" group-title="Germany",DE: Spiegel TV Wissen HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5325
+#EXTINF:0 tvg-id="PLANET.de" group-title="Germany",DE: Planet HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5323
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: N24 Doku -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73724
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: N24 DOKU HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5329
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Welt -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73726
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: WELT HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5330
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Germany",DE: Animal Planet HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5321
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Welt der Wunder HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/5316
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport News-HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73686
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="Germany",DE: Sport News FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33430
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN 1 -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73761
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Bar 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33439
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN 2 -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73684
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Bar 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33440
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN FAST HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79420
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN RISE HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79421
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Unbeaten HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/79419
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport F1 -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73690
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport F1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/34368
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Top Event -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73688
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Top Event HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57913
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Top Event HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57914
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Premier League -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73687
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky  Sport Premier League HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57909
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Premier League HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57910
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Mix -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73691
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Mix HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57915
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Mix HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57916
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Tennis -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73692
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Tennis HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57911
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Tennis HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57912
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Golf HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57917
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Golf HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/57918
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Germany",DE: Sky Bundesliga HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58131
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Bundesliga -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73693
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Germany",DE: Sky Bundesliga 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33441
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="Germany",DE: Sky Bundesliga 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33451
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Bundesliga 2 (Local) (only during events)''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73694
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="Germany",DE: Sky Bundesliga 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33442
+#EXTINF:0 tvg-id="SkyBundesliga2.de" group-title="Germany",DE: Sky Bundesliga 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33452
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Bundesliga 3 (Local) (only during events)''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73695
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="Germany",DE: Sky Bundesliga 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33443
+#EXTINF:0 tvg-id="SkyBundesliga3.de" group-title="Germany",DE: Sky Bundesliga 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33453
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Bundesliga 4 (Local) (only during events)''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73696
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="Germany",DE: Sky Bundesliga 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33444
+#EXTINF:0 tvg-id="SkyBundesliga4.de" group-title="Germany",DE: Sky Bundesliga 4 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33454
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Bundesliga 5 (Local) (only during events)''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73697
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="Germany",DE: Sky Bundesliga 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33445
+#EXTINF:0 tvg-id="SkyBundesliga5.de" group-title="Germany",DE: Sky Bundesliga 5 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33455
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Bundesliga 6 (Local) (only during events)''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73698
+#EXTINF:0 tvg-id="SkyBundesliga6.de" group-title="Germany",DE: Sky Bundesliga 6 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33456
+#EXTINF:0 tvg-id="SkyBundesliga7.de" group-title="Germany",DE: Sky Bundesliga 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33448
+#EXTINF:0 tvg-id="SkyBundesliga7.de" group-title="Germany",DE: Sky Bundesliga 7 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33457
+#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="Germany",DE: Sky Bundesliga 8 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33449
+#EXTINF:0 tvg-id="SkyBundesliga8.de" group-title="Germany",DE: Sky Bundesliga 8 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33458
+#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="Germany",DE: Sky Bundesliga 9 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33447
+#EXTINF:0 tvg-id="SkyBundesliga9.de" group-title="Germany",DE: Sky Bundesliga 9 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33459
+#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="Germany",DE: Sky Bundesliga 10 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33450
+#EXTINF:0 tvg-id="SkyBundesliga10.de" group-title="Germany",DE: Sky Bundesliga 10 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33460
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: TNT Sports 4
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80450
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: TNT Sports 5
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80451
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: TNT Sports 10
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80456
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Germany",DE: Sky Sport 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33465
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Germany",DE: Sky Sport 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33479
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Germany",DE: Sky Sport 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33466
+#EXTINF:0 tvg-id="SkySport2.de" group-title="Germany",DE: Sky Sport 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33480
+#EXTINF:0 tvg-id="SkySport3.de" group-title="Germany",DE: Sky Sport 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33467
+#EXTINF:0 tvg-id="SkySport3.de" group-title="Germany",DE: Sky Sport 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33481
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33468
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 4 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33482
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33469
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 5 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33483
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33470
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 6 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33484
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33471
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 7 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33485
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 8 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33472
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 8 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33486
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 9 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33473
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 9 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33487
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 10 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33474
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport 10 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33488
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 1 -HD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73685
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33461
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 2 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33462
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 3 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33463
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 4 -HD (Local) (only during events)''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73715
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 4 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33464
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 5 -HD (Local) (only during events)''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73716
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 5 HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42277
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42278
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 6 HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42279
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42280
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sky Sport Austria 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/42281
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL+ Sport Event 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/69079
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL+ Sport Event 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/69080
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL+ Sport Event 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/69081
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL+ Sport Event 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/69082
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL+ Sport Event 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/69083
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: RTL+ Sport Event 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/69084
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: WWE Network FHD.
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/55356
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: UFC Fight Pas HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/17173
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: FIGHTBOX HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/10036
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Motorvision TV -SD (Local) ''hevc h.265''
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/73760
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Motorvision TV HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33431
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Auto Motor HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33432
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Digital HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33433
+#EXTINF:0 tvg-id="SkySport1.de" group-title="Germany",DE: Sport 1 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33434
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Sport1 + HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33435
+#EXTINF:0 tvg-id="Eurosport1.de" group-title="Germany",DE: Eurosport 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33436
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="Germany",DE: Eurosport 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/33437
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47222
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47223
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47224
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47225
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47226
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47227
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47228
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 8 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47229
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 9 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47230
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 10 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47231
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 11 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47232
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 12 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47233
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 13 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47234
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 14 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47235
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 15 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47236
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 16 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47237
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Magenta Sport 17 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/47238
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN MBL HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/58137
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN NBA HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67536
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN NFL Network HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67537
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN MBL HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67538
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN EUROSPORT 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67539
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN EUROSPORT 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67540
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN SPORT 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67541
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN SPORTDIGITAL HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67542
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN SPORT 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67543
+#EXTINF:0 tvg-id="ext" group-title="Germany",DAZN: DAZN EUROSPORT 1 EVENT SP
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67544
+#EXTINF:0 tvg-id="ext" group-title="Germany",DAZN: DAZN EUROSPORT 2 EVENT SP
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67545
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67547
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67548
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67549
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67550
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67551
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67552
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67553
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 8 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67554
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 9 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67555
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 10 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67556
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 11 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67557
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 12 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67558
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 13 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67559
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 14 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67560
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 15 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67561
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 16 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67562
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DAZN Event 17 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67563
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67613
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 1 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67574
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 2 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67575
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 3 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67576
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 4 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67577
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 5 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67578
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 6 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67579
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 7 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67580
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 8 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67581
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 9 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67582
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 10 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67583
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 11 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67584
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 12 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67585
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 13 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67586
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 14 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67587
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 15 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67588
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 16 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67589
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 17 IT HD+
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67590
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 1  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67591
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 2  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67592
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 3  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67593
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 4  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67594
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 5  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67595
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 6  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67596
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 7  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67597
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 8  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67598
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 9  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67599
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 10  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67600
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 11  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67601
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 12  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67602
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 13  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67603
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 14  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67604
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 15  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67605
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 16  HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67606
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN Event 17 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67607
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN INTER MILAN TV
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67608
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN CHANNEL
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67609
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN MILAN TV
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67610
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN EUROSPORT 1 EVENT
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67611
+#EXTINF:0 tvg-id="ext" group-title="Germany",IT: DAZN EUROSPORT 2 EVENT
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/67612
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59920
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 1 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59901
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 2 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59902
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 3 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59903
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 4 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59904
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 5 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59905
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 6 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59906
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 7 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59907
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 8 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59908
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 9 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59909
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: Uefa Tudn Xtra 10 HD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/59910
+#EXTINF:0 tvg-id="ext" group-title="Germany",DE: DYN SPORT 24 FHD
+http://premium-ks.vip:2082/fc:f1:36:8b:be:2c/fc:f1:36:8b:be:2c.musa.fr/80305
+
